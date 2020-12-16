@@ -5,7 +5,7 @@
 </p>
 
 <p align="left"> 
-  Olá meu nome é Cadmiel e sou um<strong>Desenvolvedor Full-Stack</strong>.<br> Estudante de engenharia de software no SENAI
+  Olá meu nome é Cadmiel e sou um<strong> Desenvolvedor Full-Stack</strong>.<br> Estudante de engenharia de software no SENAI
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 
 <p align="left">
     <i class="fas fa-brain"></i>
-  Conhecimentos e ferramentas: <strong>Visual Studio Code, GitLab and GitHub, Heroku, Laravel, Django, ReactJs, ReactNative, Inteligencia artificial, Machine learning.</strong>
+  Conhecimentos e ferramentas: <strong>Visual Studio Code, GitLab and GitHub, Heroku, Laravel, Django, ReactJs, ReactNative, Inteligência artificial.</strong>
 </p>
 
 <p align="left">

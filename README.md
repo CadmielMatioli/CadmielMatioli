@@ -5,16 +5,16 @@
 </p>
 
 <p align="left"> 
-  Olá meu nome é Cadmiel e sou um<strong> Desenvolvedor Full-Stack</strong>.<br> Estudante de engenharia de software no SENAI
+  Olá meu nome é Cadmiel e sou um<strong> Desenvolvedor Web</strong>.<br> Estudante de engenharia de software no SENAI
 </p>
 
 <p align="left">
-  Habilidades: <strong>HTML, CSS, JavaScript, Python, Bootstrap, PHP.</strong>
+  Habilidades: <strong>HTML, CSS, JavaScript, Python, Bootstrap, PHP, Mysql, Postgresql, Jquery.</strong>
 </p>
 
 <p align="left">
     <i class="fas fa-brain"></i>
-  Conhecimentos e ferramentas: <strong>Visual Studio Code, GitLab and GitHub, Heroku, Laravel, Django, ReactJs, ReactNative, Inteligência artificial.</strong>
+  Conhecimentos e ferramentas: <strong>Visual Studio Code, GitLab, GitHub, GitFlow, PipeLines, Integração Contínua, Heroku, Laravel, Django, ReactJs, ReactNative, Inteligência artificial.</strong>
 </p>
 
 <p align="left">

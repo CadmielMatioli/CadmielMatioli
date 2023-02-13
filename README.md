@@ -17,6 +17,10 @@
 </p>
 
 <p align="left">
+  Perfil Gitlab: <a href="https://gitlab.com/cadmatioli">https://gitlab.com/cadmatioli</a>
+</p>
+
+<p align="left">
     <i class="fas fa-project-diagram"></i> Caso queira realizar um projeto comigo, entre em contato: ⤵️
 </p>
 
